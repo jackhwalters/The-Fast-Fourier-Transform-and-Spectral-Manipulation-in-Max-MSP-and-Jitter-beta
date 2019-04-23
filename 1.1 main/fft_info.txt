@@ -1,0 +1,5 @@
+filename DSTFT_matrix.jxf.jit
+numframes 1000.000
+framesize 2048
+spectralframesize 1024
+hopsize 1024 
